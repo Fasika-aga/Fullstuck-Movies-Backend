@@ -3,7 +3,7 @@ import express from 'express';
 import cors from 'cors';
 import morgan from'morgan';
 import moviesRouter from './routes/movies.js';
-import usersRoute from './routers/users.js'
+import usersRoute from './routes/users.js'
 
 // console.log(process.env.ATLAS_URI);
 const app = express()
