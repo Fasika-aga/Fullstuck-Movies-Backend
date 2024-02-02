@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "scripts": {
+  "scripts": 
+    {
+
+    },
    
   "keywords": [],
   "author": "",
@@ -19,5 +22,4 @@
   "devDependencies": {
     "nodemon": "^3.0.3"
   }
-}
 }
